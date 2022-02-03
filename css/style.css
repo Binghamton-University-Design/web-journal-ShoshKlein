@@ -17,11 +17,18 @@ h1, h2, h3, h4, h5, p {
   margin-bottom: 1em;
 }
 
+.emphasized {
+  font-style: italics;
+}
+
+
 h5{
-	font-weight: 700;
+  font-weight: 700;
 	font-size: 100px;
 	text-align: center;
 	color: lightpink;
+  font-family:Playfair Display;
+  font-style: italic;
 }
 
 h1, h2 {
