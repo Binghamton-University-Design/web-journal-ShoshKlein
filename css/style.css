@@ -12,6 +12,19 @@ body {
   font-weight: 300;
 }
 
+.middle {
+  margin-top: 0;
+  margin-bottom: 1em;
+  text-align: Center;
+}
+
+.sides {
+  margin-top: 0;
+  margin-bottom: 1em;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
 h1, h2, h3, h4, h5, p {
   margin-top: 0;
   margin-bottom: 1em;
@@ -24,11 +37,11 @@ h1, h2, h3, h4, h5, p {
 
 h5{
   font-weight: 700;
-	font-size: 100px;
+	font-size: 75px;
 	text-align: center;
 	color: lightpink;
   font-family:Playfair Display;
-  font-style: italic;
+  font-style: bold;
 }
 
 h1, h2 {
@@ -59,7 +72,7 @@ h1, h2 {
   margin-bottom: 0;
 }
 
-#logo svg {
+#logo img {
   margin-right: .25rem;
   height: 3.6rem;
   width: auto;
@@ -194,7 +207,7 @@ h1, h2 {
 
 .page-item p a {
   color: var(--body-color);
-  text-decoration-color: var(--body-color); 
+  text-decoration-color: var(--body-color);
 }
 
 
