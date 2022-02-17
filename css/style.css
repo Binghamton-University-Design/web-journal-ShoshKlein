@@ -6,6 +6,10 @@
   --body-color: #111;
 }
 
+i{
+  font-style: italic;
+}
+
 body {
   margin: 0;  
   font-family: 'Playfair Display', monospace;
