@@ -16,6 +16,11 @@ body {
   font-weight: 300;
 }
 
+.sub {
+  padding-bottom: 5em;
+  text-align: center;
+}
+
 .middle {
   margin-top: 0;
   margin-bottom: 1em;
@@ -215,8 +220,8 @@ h1, h2 {
 }
 
 .photo{
-  padding-left: 20em;
-  padding-right: 20em;
+  padding-left: 17em;
+  padding-right: 17em;
   padding-bottom: 2em;
 }
 
