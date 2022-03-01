@@ -214,6 +214,12 @@ h1, h2 {
   text-decoration-color: var(--body-color);
 }
 
+.photo{
+  padding-left: 20em;
+  padding-right: 20em;
+  padding-bottom: 2em;
+}
+
 
 /*FOOTER*/
 
